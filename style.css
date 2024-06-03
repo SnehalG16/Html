@@ -1,0 +1,268 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    font-family:'Poppins';
+}
+.main
+{
+    height: 150px;
+    width: 100%;
+    
+}
+.bar
+{
+    height: 100px;
+    width: 100%;
+    position: fixed;
+    display: flex;
+    padding:10px ;
+    background-color: azure;
+}   
+.bar img
+{
+   height: 100%;
+   width: 100%;
+}
+.nav-bar
+{
+    height: 70px;
+    width: 100%;
+    justify-content: center;
+    text-align: center;
+    border: 2px;
+    border: solid  azure 2px;
+    
+}
+a
+{
+    text-decoration: none;
+    margin:10px 20px;
+}
+li
+{
+    list-style: none;
+    margin:10px 40px;
+}
+.name
+{
+    font-size: 100px;
+    justify-content: center;
+    text-align: center;
+}
+.main1
+{
+    height: 750px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.main2
+{
+    height: 750px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 10px;
+}
+.main3
+{
+    height: 750px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 10px;
+}
+.main4
+{
+    height: 750px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.main5
+{
+    height: 750px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.main6
+{
+    height: 750px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.main7
+{
+    height: 750px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.main8
+{
+    height: 750px;
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+.img
+{
+    height: 500px;
+    width: 95%;
+    justify-content: space-between;
+    
+}
+.pera
+{
+    justify-content: center;
+    text-align: center;
+    width: 90%;
+    
+    
+}
+.img img
+{
+   height: 80%;
+   width: 95%;
+   
+   display: flex;
+   justify-content: space-between;
+}
+.part
+{
+   height: 500px;
+   width: 80%;
+   
+}
+.bord
+{
+    width: 70%;
+    height: 100px;
+    margin: auto;
+    margin-bottom: 30px;
+    
+    
+}    
+.bord img
+{
+   width: 100%;
+   height: 100%;
+   justify-content: center;
+   align-items: center;
+}
+.btn
+{
+    width: 15%;
+    height: 50px;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    margin-left:43%;
+
+   
+  
+}
+.btn a
+{
+    color: azure;
+    padding: auto;
+    margin: auto;
+
+}
+.last
+{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 90px;
+}
+.foot
+{
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    margin-top: 50px;
+}
+.last1
+{
+    display: flex;
+}
+.search
+{
+    width: 20%;
+
+    color: aliceblue;
+    
+}
+.button
+{
+    width: 20%;
+    color: aliceblue;
+}
+.foot p
+{
+    font-size: 100px;
+    color: aliceblue;
+    margin-left: 20px ;
+}
+.icon
+{ 
+    color: aliceblue;
+    width: 35%;
+    height: 100px;
+    
+    margin-right: 100px;
+}
+
+.icon ul
+{
+    display: flex;
+    font-size: 40px;
+    margin-left:0%;
+    padding:0%;
+    width: 35%;
+    height: 100px;
+}
+.icon ul li
+{
+    margin-left: 20px;
+}
+.last2
+{
+    width: 100%;
+    height: 100px;
+    color: aliceblue;
+   margin-top: 50px;
+
+}
+button
+{
+    margin:10px 150px;
+    background-color: black;
+    color: aliceblue;
+}
+.end
+{
+    width: 90%;
+    color: lightgray;
+    margin: auto;
+}
+.btn :hover
+{
+    background: white;
+    width: 100%;
+    color: black;
+    
+}
